@@ -8,3 +8,5 @@
 ``` javascript
 var kitty = "cat";
 ```
+- [ ] test it out
+- [ ] cool
